@@ -75,6 +75,3 @@ function classificaSenha(tamanhoAlfabeto){
     const valorEntropia = document.querySelector('.entropia');
     valorEntropia.textContent = 2**Math.floor(entropia)/(100e6*60*60*24);
 }
-
-Postada por WESLLEY STOPASOL DE LIMA
-WESL
